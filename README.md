@@ -24,3 +24,8 @@ https://raw.githubusercontent.com/xthesaintx/tool-proficiencies/main/module.json
 * whistle-stick
 * yarting
 * zulkoon
+
+## Roadmap
+* Add configuration so can be pointed to any compendium to scan for tools.
+* Option to turn off included tools.
+* Get added to official foundry listing.
