@@ -1,7 +1,7 @@
 {
   "id": "tool-proficiencies",
   "title": "Tool Proficiencies",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "esmodules": ["scripts/loadtools.js"],
   "compatibility": {
     "minimum": "12",
@@ -9,8 +9,8 @@
   },
     "url": "https://github.com/xthesaintx/tool-proficiencies/",
   "manifest": "https://raw.githubusercontent.com/xthesaintx/tool-proficiencies/main/module.json",
-  "download": "https://github.com/xthesaintx/woa/archive/refs/tool-proficiencies/1.0.2.zip",
-  "readme": "https://github.com/xthesaintx/woa/blob/main/README.md",
+  "download": "https://github.com/xthesaintx/tool-proficiencies/archive/refs/tool-proficiencies/1.0.3.zip",
+  "readme": "https://github.com/xthesaintx/tool-proficiencies/blob/main/README.md",
   
 "authors": [
     {
