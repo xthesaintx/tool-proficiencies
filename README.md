@@ -35,6 +35,9 @@ If this is checked, on clicking Save Changes, the selected compendiums will be s
 _A warning will pop up about writing to a module directory_
 ![Screenshot 2025-01-18 at 2 50 52 PM](https://github.com/user-attachments/assets/6d397277-1a5e-47eb-ab15-372e21eda993)
 
+**You will need to reload the world for the new proficiencies to show up**
+
+
 ## Using accross worlds
 If using this accross worlds, and wanting to use your own tools, I highly recommend that you create a shared item compendium called "tool-proficiencies" and enable this in all the worlds you want to use the module. This will ensure that the data in the list can match accross worlds it is used in.
 
